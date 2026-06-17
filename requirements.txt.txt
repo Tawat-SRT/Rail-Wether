@@ -1,6 +1,6 @@
 streamlit
-pandas
 folium
 streamlit-folium
-openpyxl
-plotly
+fastkml
+shapely
+requests
